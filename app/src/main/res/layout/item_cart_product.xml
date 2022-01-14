@@ -19,6 +19,7 @@
         app:layout_constraintEnd_toEndOf="parent">
 
         <ImageView
+            android:id="@+id/imageView"
             android:layout_gravity="center"
             android:layout_margin="12dp"
             android:layout_width="40dp"

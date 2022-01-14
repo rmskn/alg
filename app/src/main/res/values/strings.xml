@@ -17,5 +17,6 @@
     <string name="support">Поддержка</string>
     <string name="exit">Выход</string>
     <string name="product_image">product image</string>
+    <string name="error">Возникла ошибка: %s</string>
 
 </resources>
