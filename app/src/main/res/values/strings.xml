@@ -18,5 +18,7 @@
     <string name="exit">Выход</string>
     <string name="product_image">product image</string>
     <string name="error">Возникла ошибка: %s</string>
+    <string name="just_error">Ошибка</string>
+    <string name="update">Обновить</string>
 
 </resources>
