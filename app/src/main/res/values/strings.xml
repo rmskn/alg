@@ -16,5 +16,6 @@
     <string name="settings">Настройки</string>
     <string name="support">Поддержка</string>
     <string name="exit">Выход</string>
+    <string name="product_image">product image</string>
 
 </resources>
