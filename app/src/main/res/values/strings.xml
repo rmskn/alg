@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">shop</string>
+    <string name="catalog">КАТАЛОГ</string>
+    <string name="profile">Профиль</string>
+    <string name="login">Авторизация</string>
+    <string name="showall">Показать все</string>
+    <string name="show_all">Показать все</string>
+    <string name="overalls">Спецодежда</string>
+    <string name="footwear">Спецобувь</string>
+    <string name="TITLE">АЛГОРИТМ М</string>
+    <string name="name">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="log_in">Войти</string>
+    <string name="my_orders">Мои заказы</string>
+    <string name="cart">Корзина</string>
+    <string name="settings">Настройки</string>
+    <string name="support">Поддержка</string>
+    <string name="exit">Выход</string>
+
 </resources>
