@@ -28,7 +28,7 @@ class CartViewModel(
                 val products = NetworkService.loadCart()
                 _screenState.emit(ScreenState.DataLoaded(products))
             } catch (e: Exception) {
-                _screenState.emit(ScreenState.Error(context.getString(R.string.error)))
+                _screenState.emit(ScreenState.Error(context.getString(R.string.error, e.toString())))
             }
         }
     }
