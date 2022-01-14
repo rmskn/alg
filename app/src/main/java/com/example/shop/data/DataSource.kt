@@ -1,7 +1,7 @@
 package com.example.shop.data
 
-import com.example.shop.model.Product
-import com.example.shop.model.ProfileItem
+import com.example.shop.domain.model.Product
+import com.example.shop.domain.model.ProfileItem
 
 object DataSource {
     val catalogProducts = listOf(

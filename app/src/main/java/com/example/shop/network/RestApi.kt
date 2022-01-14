@@ -1,6 +1,6 @@
 package com.example.shop.network
 
-import com.example.shop.model.Product
+import com.example.shop.domain.model.Product
 import retrofit2.http.GET
 
 interface RestApi {
