@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "fcd44a78-3acd-4336-896e-c012cc886ea3",
+		"name": "shop",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "products",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "cart",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "cart",
+					"host": [
+						"cart"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
